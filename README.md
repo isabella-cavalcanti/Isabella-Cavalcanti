@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Isabella 👋
 
-<!--
-**isabella-cavalcanti/Isabella-Cavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação no Mackenzie** e **estagiária de Analytics no Bradesco**. Gosto de transformar problemas do dia a dia em ferramentas que resolvem de verdade.
 
-Here are some ideas to get you started:
+- 💼 Estagiária de Analytics no Bradesco (passei por modelagem, hoje em BI)
+- 👩‍💻 Team leader do projeto de extensão **WomanTech**
+- 🎓 Monitora e representante de sala
+- 📍 Osasco, SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+| Projeto | O que é |
+|---|---|
+| 📒 [**Caderneta**](https://github.com/isabella-cavalcanti/Finan-as-) | App de finanças pessoais: importa a fatura do cartão, distribui as parcelas nos meses certos e mostra dashboards e avisos. Usado por parentes e amigos. · [Acessar](https://isabella-cavalcanti.github.io/Finan-as-/) |
+| 🌧️ [**FloodMap**](https://github.com/isabella-cavalcanti/FloodMap1.0) | Startup da faculdade contra enchentes: sensores IoT, alertas geolocalizados e rotas seguras. Fui Diretora de Tecnologia. · [Acessar](https://isabella-cavalcanti.github.io/FloodMap1.0/) |
+
+## 🛠️ Ferramentas
+
+`Python` · `SQL` · `PySpark` · `Databricks` · `Power BI` · `HTML` · `CSS` · `JavaScript` · `Git`
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/isabella-cavalcanti-campelo-194745282)
