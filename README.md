@@ -11,7 +11,7 @@ Estudante de **Ciência da Computação no Mackenzie** e **estagiária de Analyt
 
 | Projeto | O que é |
 |---|---|
-| 📒 [**Caderneta**](https://github.com/isabella-cavalcanti/Finan-as-) | App de finanças pessoais: importa a fatura do cartão, distribui as parcelas nos meses certos e mostra dashboards e avisos. Usado por parentes e amigos. · [Acessar](https://isabella-cavalcanti.github.io/Finan-as-/) |
+| 📒 [**Caderneta**](https://github.com/isabella-cavalcanti/caderneta) | App de finanças pessoais: importa a fatura do cartão, distribui as parcelas nos meses certos e mostra dashboards e avisos. Usado por parentes e amigos. · [Acessar](https://isabella-cavalcanti.github.io/caderneta/) |
 | 🌧️ [**FloodMap**](https://github.com/isabella-cavalcanti/FloodMap1.0) | Startup da faculdade contra enchentes: sensores IoT, alertas geolocalizados e rotas seguras. Fui Diretora de Tecnologia. · [Acessar](https://isabella-cavalcanti.github.io/FloodMap1.0/) |
 
 ## 📚 Para a turma
