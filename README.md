@@ -20,7 +20,7 @@ Estudante de **Ciência da Computação no Mackenzie** e **estagiária de Analyt
 |---|---|
 | 📐 [**Estudo de Modelagem**](https://github.com/isabella-cavalcanti/estudo-de-modelagem) | Material interativo que eu fiz para estudar junto com a sala: transporte e designação passo a passo, com os exemplos da aula. · [Acessar](https://isabella-cavalcanti.github.io/estudo-de-modelagem/) |
 | 🗓️ [**Calendário do Semestre**](https://github.com/isabella-cavalcanti/calendario-2-semestre-2026) | Provas, entregas e grade de aulas do semestre num só lugar. · [Acessar](https://isabella-cavalcanti.github.io/calendario-2-semestre-2026/) |
-| 💜 [**WomanTech**](https://github.com/isabella-cavalcanti/womanteste) | Site do programa de extensão que incentiva mulheres na tecnologia, do qual sou team leader. · [Acessar](https://isabella-cavalcanti.github.io/womanteste/) |
+| 💜 [**WomanTech**](https://github.com/isabella-cavalcanti/WomanTechSite) | Site do programa de extensão que incentiva mulheres na tecnologia, do qual sou team leader. · [Acessar](https://isabella-cavalcanti.github.io/WomanTechSite/) |
 
 ## 🛠️ Ferramentas
 
