@@ -11,6 +11,7 @@ Estudante de **Ciência da Computação no Mackenzie** e **estagiária de Analyt
 
 | Projeto | O que é |
 |---|---|
+| 🛵 [**Hubs de Entrega**](https://github.com/isabella-cavalcanti/hubs-de-entrega) | Otimização (MILP) que decide onde abrir hubs de entrega em SP + IA generativa que explica cada decisão em linguagem natural. Dados fictícios. |
 | 📒 [**Caderneta**](https://github.com/isabella-cavalcanti/Caderneta) | App de finanças pessoais: importa a fatura do cartão, distribui as parcelas nos meses certos e mostra dashboards e avisos. Usado por parentes e amigos. · [Acessar](https://isabella-cavalcanti.github.io/Caderneta/) |
 | 🌧️ [**FloodMap**](https://github.com/isabella-cavalcanti/FloodMap1.0) | Startup da faculdade contra enchentes: sensores IoT, alertas geolocalizados e rotas seguras. Fui Diretora de Tecnologia. · [Acessar](https://isabella-cavalcanti.github.io/FloodMap1.0/) |
 
@@ -24,7 +25,7 @@ Estudante de **Ciência da Computação no Mackenzie** e **estagiária de Analyt
 
 ## 🛠️ Ferramentas
 
-`Python` · `SQL` · `PySpark` · `Databricks` · `Power BI` · `HTML` · `CSS` · `JavaScript` · `Git`
+`Python` · `SQL` · `IA Generativa` · `PuLP (MILP)` · `Streamlit` · `PySpark` · `Databricks` · `Power BI` · `HTML` · `CSS` · `JavaScript` · `Git`
 
 ## 📫 Contato
 
